@@ -1,2 +1,2 @@
 # attentiveness
-online attentiveness system using Computer Vision
+Online Attentiveness Monitoring and Analysis System using Computer Vision
